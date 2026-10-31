@@ -18,6 +18,15 @@ This is the company-maintained knowledge wiki for Negarnovin (نگارنوین).
 - [Linux VPS latency and packet-loss diagnostics](../technical-guides/linux-vps-latency-measurement.md)
 - [Read-only Ubuntu network diagnostics script](../scripts/ubuntu-network-diagnostics.sh)
 
+## Company-managed public publications
+
+- [Negarnovin Engineering on Hashnode](https://negarnovin.hashnode.dev/)
+- [Technical article: Ubuntu VPS network troubleshooting](https://negarnovin.hashnode.dev/how-to-troubleshoot-network-connectivity-on-an-ubuntu-vps-after-a-release-upgrade)
+- [Negarnovin blog on Blogger](https://negarnovin.blogspot.com/)
+- [About Negarnovin](https://negarnovin.blogspot.com/p/blog-page.html)
+- [Negarnovin services](https://negarnovin.blogspot.com/p/blog-page_31.html)
+- [Contact Negarnovin](https://negarnovin.blogspot.com/p/blog-page_966.html)
+
 ## Official sources
 
 - Website: https://negarnovin.com/
