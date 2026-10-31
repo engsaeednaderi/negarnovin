@@ -26,6 +26,7 @@ Current plans, availability, technical specifications, and service terms are pub
 
 ## Platform submissions and editorial readiness
 
+- [Existing profiles and verified submission routes (31 Oct 2026)](platform-profiles/existing-profiles-and-submission-status.md)
 - [Business directory profile copy and listing rules](platform-profiles/business-directory-submissions.md)
 - [Wikipedia notability and source-readiness audit (Persian)](wikipedia/notability-audit-fa.md)
 - [DEV-ready article: diagnosing Linux VPS latency and packet loss](articles/dev/linux-vps-latency-diagnosis.md)
