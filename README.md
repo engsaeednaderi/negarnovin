@@ -32,6 +32,13 @@ Current plans, availability, technical specifications, and service terms are pub
 - [Business directory profile copy and listing rules](platform-profiles/business-directory-submissions.md)
 - [Wikipedia notability and source-readiness audit (Persian)](wikipedia/notability-audit-fa.md)
 - [DEV-ready article: diagnosing Linux VPS latency and packet loss](articles/dev/linux-vps-latency-diagnosis.md)
+- [Persian technical guide: VPS latency and packet loss](articles/fa/linux-vps-latency-diagnosis.md)
+- [English technical article: measuring web performance beyond ping](articles/dev/web-performance-beyond-ping.md)
+- [Editorial outreach and authority plan](outreach/editorial-outreach-plan-2026-10-31.md)
+- [Canonical brand data sheet](outreach/brand-data-sheet.md)
+- [Persian editorial pitches](outreach/pitches/fa-editorial-pitches.md)
+- [English editorial pitches](outreach/pitches/en-editorial-pitches.md)
+- [Independent source tracker for Wikipedia readiness](wikipedia/source-tracker.md)
 
 ## Technical resources
 
