@@ -18,6 +18,7 @@ Current plans, availability, technical specifications, and service terms are pub
 
 ## Company and media information
 
+- [Official company knowledge wiki](wiki/index.md)
 - [Company profile](company-profile.md)
 - [Services overview](services.md)
 - [Media and press information](press-kit.md)
