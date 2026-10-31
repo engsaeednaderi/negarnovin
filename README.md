@@ -29,6 +29,12 @@ Current plans, availability, technical specifications, and service terms are pub
 - [Ubuntu VPS network troubleshooting](technical-guides/ubuntu-vps-network-troubleshooting.md)
 - [VMware memory ballooning in Linux VMs](technical-guides/vmware-memory-ballooning-linux.md)
 - [Measuring Linux VPS network latency and packet loss](technical-guides/linux-vps-latency-measurement.md)
+- [DEV-ready article: Ubuntu VPS network troubleshooting](articles/dev/ubuntu-vps-network-troubleshooting.md)
+- [Read-only Ubuntu network diagnostics script](scripts/ubuntu-network-diagnostics.sh)
+
+## Company landing page
+
+A static landing page is prepared in `docs/index.html`. To publish it, open **Settings → Pages** in this repository, set the source to **Deploy from a branch**, choose branch `main` and folder `/docs`, then save. The expected address is `https://engsaeednaderi.github.io/negarnovin/` after GitHub completes the deployment.
 
 ## Official links
 
@@ -42,10 +48,6 @@ Current plans, availability, technical specifications, and service terms are pub
 - Email: info@negarnovin.com
 - Phone: +98 21 92001474
 - Location: Tehran, Iran
-
-## GitHub Pages preview
-
-A static company landing page is prepared in the `docs/` directory. To publish it, open **Settings → Pages** in this repository, set the source to **Deploy from a branch**, choose branch `main` and folder `/docs`, then save. The expected address is `https://engsaeednaderi.github.io/negarnovin/` after GitHub completes the deployment.
 
 ## About this repository
 
