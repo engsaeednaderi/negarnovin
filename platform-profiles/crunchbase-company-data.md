@@ -1,6 +1,13 @@
 # Crunchbase Company Profile — Negarnovin
 
-This is a working data sheet for manually creating or claiming a Crunchbase company profile. Do not submit any field that is not verified.
+This is a working data sheet for claiming and correcting the exact-match Crunchbase company profile already discovered. Do not create a second company entry, and do not submit any field that is not verified.
+
+## Existing exact-match record
+
+- Profile: https://www.crunchbase.com/organization/negarnovin-%D9%86%DA%AF%D8%A7%D8%B1%D9%86%D9%88%DB%8C%D9%86
+- Search results matched the exact company name, website domain negarnovin.com, and Tehran, Iran.
+- Recommended action: sign in, verify control of the existing record, and correct only fields supported by company records or current official materials.
+- Do not claim the similarly named NegarInno entity or merge records.
 
 ## Identity
 
