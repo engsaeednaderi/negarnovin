@@ -27,6 +27,7 @@ Current plans, availability, technical specifications, and service terms are pub
 
 ## Platform submissions and editorial readiness
 
+- [Verified public profiles and publication audit (31 Oct 2026)](platform-profiles/current-public-presence-2026-10-31.md)
 - [Existing profiles and verified submission routes (31 Oct 2026)](platform-profiles/existing-profiles-and-submission-status.md)
 - [Business directory profile copy and listing rules](platform-profiles/business-directory-submissions.md)
 - [Wikipedia notability and source-readiness audit (Persian)](wikipedia/notability-audit-fa.md)
