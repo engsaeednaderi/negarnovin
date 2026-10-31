@@ -61,6 +61,32 @@ Additional company materials include a press kit, directory submission copy, pla
 
 GitHub Pages is not confirmed as activated or published. Do not claim the /docs landing page is live until the repository Pages deployment is verified.
 
+
+## New authority and editorial assets added on 31 October 2026
+
+The following source material was added to the public repository and verified through the GitHub contents API. These are company-owned materials, not external placements or independent press mentions.
+
+- Canonical bilingual brand data sheet: https://github.com/engsaeednaderi/negarnovin/blob/main/outreach/brand-data-sheet.md
+- Persian editorial pitch topics: https://github.com/engsaeednaderi/negarnovin/blob/main/outreach/pitches/fa-editorial-pitches.md
+- English editorial pitch topics: https://github.com/engsaeednaderi/negarnovin/blob/main/outreach/pitches/en-editorial-pitches.md
+- Editorial outreach and link-quality plan: https://github.com/engsaeednaderi/negarnovin/blob/main/outreach/editorial-outreach-plan-2026-10-31.md
+- Independent-source tracker for Wikipedia readiness: https://github.com/engsaeednaderi/negarnovin/blob/main/wikipedia/source-tracker.md
+- Persian technical article about VPS latency and packet loss: https://github.com/engsaeednaderi/negarnovin/blob/main/articles/fa/linux-vps-latency-diagnosis.md
+- English technical article about DNS, TCP, TLS and TTFB measurement: https://github.com/engsaeednaderi/negarnovin/blob/main/articles/dev/web-performance-beyond-ping.md
+
+The README and press kit were updated to index these resources. None of the new articles has been represented as published on an independent third-party website.
+
+## Latest outreach findings
+
+- TechRasa's public contact page lists article@techrasa.com for questions about joining its members club to publish articles, and hi@techrasa.com for suggestions. Its pricing, editorial acceptance and link terms have not been agreed.
+- InfoQ's current submission form lists Cloud, Java, .NET and WebDev as open queues and says several other queues are not currently accepting proposals. Its author process requires original, educational, non-promotional work and human author responsibility; its generative-AI policy must be followed.
+- The New Stack's contributor page states that guest bylines are paused while its brand-sponsored contribution program remains available commercially.
+- No pitch was sent, no sponsored placement was purchased and no third-party publication was confirmed during this pass.
+
+## SEO-tool measurement limitation
+
+On 31 October 2026, the connected Ubersuggest account reported that its daily report quota was exhausted. The backlink overview, referring-domain inventory, anchor-text distribution, competitor analysis and domain overview therefore remain unmeasured in this pass. Do not report invented DA, backlink totals, referring-domain counts, rankings or traffic estimates.
+
 ## Existing exact-match external profiles
 
 These pages already existed before the latest work. Do not create duplicate entries:
