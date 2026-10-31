@@ -30,6 +30,13 @@ Technical claims should be supported by reproducible measurements, configuration
 - Telephone: +98 21 92001474
 - Location: Tehran, Iran
 
+## Ready-to-review technical material
+
+- English guide: https://github.com/engsaeednaderi/negarnovin/blob/main/articles/dev/linux-vps-latency-diagnosis.md
+- Persian guide: https://github.com/engsaeednaderi/negarnovin/blob/main/articles/fa/linux-vps-latency-diagnosis.md
+- English web-performance article: https://github.com/engsaeednaderi/negarnovin/blob/main/articles/dev/web-performance-beyond-ping.md
+- Editorial pitch topics: https://github.com/engsaeednaderi/negarnovin/blob/main/outreach/
+
 ## Interview and editorial requests
 
 For interview requests, technical questions, or requests for supporting material, contact the company through its published contact channels.
