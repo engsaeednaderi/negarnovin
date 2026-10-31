@@ -41,6 +41,12 @@ Current plans, availability, technical specifications, and service terms are pub
 - [DEV-ready article: Ubuntu VPS network troubleshooting](articles/dev/ubuntu-vps-network-troubleshooting.md)
 - [Read-only Ubuntu network diagnostics script](scripts/ubuntu-network-diagnostics.sh)
 
+## Persian knowledge base and landing page
+
+- [Persian company knowledge base](wiki/fa/README.md)
+- [Persian company landing page source](docs/fa/index.html)
+- [Verified directory submission profile](platform-profiles/directory-submission-profile.md)
+
 ## Company landing page
 
 A static landing page is prepared in `docs/index.html`. To publish it, open **Settings → Pages** in this repository, set the source to **Deploy from a branch**, choose branch `main` and folder `/docs`, then save. The expected address is `https://engsaeednaderi.github.io/negarnovin/` after GitHub completes the deployment.
