@@ -24,6 +24,12 @@ Current plans, availability, technical specifications, and service terms are pub
 - [DEV organization profile draft](platform-profiles/dev-organization.md)
 - [Crunchbase company data draft](platform-profiles/crunchbase-company-data.md)
 
+## Platform submissions and editorial readiness
+
+- [Business directory profile copy and listing rules](platform-profiles/business-directory-submissions.md)
+- [Wikipedia notability and source-readiness audit (Persian)](wikipedia/notability-audit-fa.md)
+- [DEV-ready article: diagnosing Linux VPS latency and packet loss](articles/dev/linux-vps-latency-diagnosis.md)
+
 ## Technical resources
 
 - [Ubuntu VPS network troubleshooting](technical-guides/ubuntu-vps-network-troubleshooting.md)
