@@ -209,3 +209,26 @@ Indicative USD conversions use 268,000 Toman/USD (free-market reference, 23 Nov 
 Proposed LowEndBox offer: one Germany KVM VPS offer with Starter through Enterprise tiers (six plans at or below the $10/month guideline). Omit Ultra and Hyper from the initial low-end offer unless LowEndBox editorial team approves an exception. Do not advertise Toman prices as fixed USD prices; conversions are indicative only and fluctuate with FX. Confirm current prices and checkout currency before submission.
 
 Outstanding submission requirements not established by the public landing page: exact Hetzner facility city/site, test IP and test file(s), and a link/attachment for NegarNovin business registration. LowEndBox's current official rules ask for these details and state featured listings are free; one offer per provider per 30 days. No ticket submitted yet.
+
+
+## LowEndBox Germany VPS offer — prepared from provider confirmation (23 Nov 2026)
+
+Provider supplied:
+- Requested service locations: Falkenstein and Nuremberg, Germany (provider-confirmed in chat).
+- Test IPv4 supplied: 138.201.37.112. Public NegarNovin page identifies this as its Germany VPS test IP and the related earlier page version associates the product with Hetzner Falkenstein. No separate Nuremberg test IP was supplied; do not claim this IP tests both sites.
+- Billing currency: Toman; customers pay in Toman. LowEndBox rules require USD-equivalent recurring price when currency is not USD. For planning only, 2 Azar 1405 market reference USD/Toman 268,700; approximate conversions: Starter 1.1M ≈ $4.09; Advanced 1.3M ≈ $4.84; Standard 1.5M ≈ $5.58; Business 1.8M ≈ $6.70; Professional 2.2M ≈ $8.19; Enterprise 2.5M ≈ $9.30. FX fluctuates; recheck at ticket submission and state that these are indicative equivalents, while final customer charge is Toman.
+- Business registration document is available per provider, but no file or public registration number/link has been attached to the support ticket yet. Must attach document in Help Desk ticket; do not upload to public repository.
+
+Six-plan selection (within LowEndBox unmanaged VPS $10/month guideline at the above reference rate):
+- Starter DE: 4GB DDR4, 2 CPU cores / 2000 MHz, 30GB NVMe, unlimited bandwidth, 10Gbps port, 1,100,000 Toman/month.
+- Advanced DE: 6GB DDR4, 4 CPU cores / 4000 MHz, 40GB NVMe, unlimited bandwidth, 10Gbps port, 1,300,000 Toman/month.
+- Standard DE: 10GB DDR4, 6 CPU cores / 6000 MHz, 50GB NVMe, unlimited bandwidth, 10Gbps port, 1,500,000 Toman/month.
+- Business DE: 12GB DDR4, 6 CPU cores / 6000 MHz, 60GB NVMe, unlimited bandwidth, 10Gbps port, 1,800,000 Toman/month.
+- Professional DE: 16GB DDR4, 8 CPU cores / 8000 MHz, 70GB NVMe, unlimited bandwidth, 10Gbps port, 2,200,000 Toman/month.
+- Enterprise DE: 24GB DDR4, 12 CPU cores / 12000 MHz, 80GB NVMe, unlimited bandwidth, 10Gbps port, 2,500,000 Toman/month.
+
+Shared features from live product page: KVM; Hetzner Germany; NVMe; 10Gbps port; unlimited bandwidth; fixed IPv4; Windows/Linux OS choices; automated provisioning. Current live product page is generic about city-level location; separate Nuremberg test IP and confirmation that all listed plans are orderable in both cities remain required to fully evidence two-city coverage.
+
+Official LowEndBox ticket template requires company name/domain, ToS/legal links, accepted payment methods, registration country/number or public WHOIS, >3 sentences company background (the Submit An Offer page asks 6–8 sentences), DC name + city/country + test IP/looking glass, and up to ~6 offers. Host node physical specs are a separate template field but not supplied; omit rather than invent. Helpdesk ticket URL: https://services.lowendtalk.com/submitticket.php?step=2&deptid=5 . Featured editorial offers are free; unmanaged VPS guide is <= $10/month; one published offer per provider per 30 days.
+
+Status: DRAFT PREPARED — NOT SUBMITTED. Outstanding: attach registration proof, supply/confirm Nuremberg test IP, confirm exact city allocation for each plan and revalidate prices/FX at submission time. Never publish the registration document publicly.
