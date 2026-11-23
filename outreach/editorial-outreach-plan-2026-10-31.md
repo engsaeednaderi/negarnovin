@@ -186,3 +186,6 @@ Do not count a draft, email, directory form or pending editorial pitch as a back
 
 ### Inbox review
 - Targeted inbox checks for new responses to Few Servers, VPSProof, Data Center Edition, StackHarden, Linux.com and related outreach found no new reply to the latest submissions in this pass. Existing Data Center Edition thread remains the previously recorded manuscript request; do not count it as a new reply.
+
+- HostAdvice: public brand-submission materials state that submitting a hosting company is free; detailed submission form requires company address, starting price, data center entries, service features and at least one hosting offer. Sent eligibility inquiry to info@hostadvice.com on 23 November 2026 asking whether Iran-headquartered providers qualify and confirming no paid placement, reciprocal link or paid review will be accepted. Thread: 1a207a0d2040b889. No profile submitted yet.
+- HostFilter: public site states its brand submission is free and creates a company profile. Submission not completed; no verified public submission URL or direct editorial contact confirmed in this pass. Treat as a candidate only, not a live listing.
