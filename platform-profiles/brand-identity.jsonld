@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "NegarNovin",
+  "alternateName": ["Negarnovin", "نگارنوین"],
+  "url": "https://negarnovin.com/",
+  "foundingDate": "2009",
+  "description": "NegarNovin is an Iran-based cloud infrastructure and IT services provider offering KVM-based VPS and VDS, dedicated servers, cloud infrastructure, web hosting, SSL and domain services, and server administration.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Tehran",
+    "addressCountry": "IR"
+  },
+  "email": "info@negarnovin.com",
+  "telephone": "+98-21-92001474",
+  "knowsAbout": [
+    "Cloud infrastructure",
+    "Virtual private servers",
+    "Virtual dedicated servers",
+    "Dedicated servers",
+    "Web hosting",
+    "SSL certificates",
+    "Domain services",
+    "Linux server administration"
+  ],
+  "sameAs": [
+    "https://www.hostingseekers.com/company/negarnovin/detail",
+    "https://vpsadvisor.com/review-detail/negarnovin-com/",
+    "https://hostlist.io/host/negarnovin-tehran-iran",
+    "https://serververify.com/hosting-providers/negarnovin",
+    "https://directory.websdocs.com/business/negarnovin",
+    "https://opentencor.ai/guides/gpu-cloud-provider-directory.html"
+  ]
+}
