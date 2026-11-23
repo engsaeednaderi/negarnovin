@@ -162,3 +162,27 @@ Do not count a draft, email, directory form or pending editorial pitch as a back
 ### Current directory constraints
 - Do not mark any of the above as listed until a public provider page or explicit acceptance is received.
 - Use live catalogue URLs for current plan details; avoid hardcoding prices, location totals, or service availability into third-party listings.
+
+
+## Activity update — 23 November 2026 (continued, second pass)
+
+### New technical article published
+- WordPress post ID: 21; status verified as publish.
+- Title: «systemd Timer یا Cron؟ راهنمای زمان‌بندی مطمئن کارهای دوره‌ای در لینوکس»
+- URL: https://negarnovininfrastructurejourna.wordpress.com/2026/11/23/systemd-timers-vs-cron-linux-scheduled-jobs/
+- Covers cron use cases, systemd .service/.timer units, OnCalendar, Persistent semantics (single catch-up activation rather than replaying every missed interval), RandomizedDelaySec, AccuracySec, journalctl and operational pitfalls.
+- Cites upstream systemd manuals and Linux man-pages; links contextually to NegarNovin VPS and About pages. Newsletter email disabled.
+
+### LowEndBox offer submission — qualified, not submitted
+- Official rules confirm editorial offer listings are free, with no paid placement needed. Price guidance: unmanaged VPS at $10/month or less; managed VPS at $30/month or less. Only one offer per provider per 30 days.
+- Submission must be a ticket through services.lowendtalk.com and include a specific plan's RAM, storage, bandwidth, CPU, port speed, virtualization, exact location and data center, test IPs/files where possible, business registration evidence, exact pricing and differentiators.
+- Not submitted: the public NegarNovin VPS page currently displays conflicting price values/formatting in the fetched text, so selecting and quoting a plan would risk sending incorrect pricing. Need an internally confirmed plan, billing currency/term, current final price, exact location/provider data, test IP and business registration document before ticket submission.
+- Official requirements: https://lowendbox.com/submit-an-offer/ . Reciprocal links are not required in the published rules.
+
+### Directory policy screening
+- MeWebLink states free submission, no account, no reciprocal link; listing links are UGC/nofollow and no ranking/indexing guarantee. It is a generic website discovery directory, not a specialist hosting directory. Submission not completed because its form requires browser interaction.
+- 100Best Free Web Space excluded: reciprocal backlink required.
+- Oh My VPS is a specialist EU/Americas geography directory with 163 providers; no verified submission route identified in this pass. It may be a poor fit for Iran-headquartered provider records unless listing is based on actual European server regions and transparent operator identity.
+
+### Inbox review
+- Targeted inbox checks for new responses to Few Servers, VPSProof, Data Center Edition, StackHarden, Linux.com and related outreach found no new reply to the latest submissions in this pass. Existing Data Center Edition thread remains the previously recorded manuscript request; do not count it as a new reply.
