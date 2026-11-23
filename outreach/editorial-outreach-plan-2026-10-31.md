@@ -320,3 +320,28 @@ Targeted inbox search for the last 5 days across LowEndBox/LowEndTalk, HostAdvic
 
 ### Submission policy
 No paid listings, featured upgrades, paid verification, reciprocal links, fabricated reviews, invented address/hours, or unsupported business facts. Do not report any candidate as a published profile or backlink until a public listing URL is verified.
+
+
+## Additional hosting-specific directory research — 23 November 2026
+
+### New candidates (not previously tracked)
+
+1. **Host.Promo** — direct free web-hosting provider submission form. Requests company name, website, country, logo, accepted payment methods, teaser, launch year, cheapest monthly server price in USD, number of data centers, private/public email and feature flags. URL: https://host.promo/submit-web-host . No listing created. Important blockers: user's published pricing is in Toman, USD conversion would need a dated exchange-rate source and transparent qualification; number of datacenters must be validated as orderable locations/partners, not ownership; form requires logo upload and private staff email. Do not invent USD price or data-center count.
+2. **HostDean** — free provider submission page with company name, website, company email/phone, founding year, contact email and square logo. It says to check whether company already exists and provides a business dashboard. URL: https://hostdean.com/business/submit/ . Page was blocked by anti-bot verification in this research environment, so no complete terms review or submission. Candidate only.
+3. **WeverLabs Directory** — free server/tool submission; site claims listing is live immediately and can be submitted through a public MCP endpoint after validation. URL: https://weverlabs.com/directory/ . Potentially relevant to infrastructure/server offerings but directory's audience and quality are unproven. Public MCP submission tool is not connected in current environment; no listing submitted.
+4. **Biz.ly Webmaster & Hosting Resources** — free listing form with explicit categories for web hosting companies and hosting directories. URL: https://www.biz.ly/add_link.php . Older/general directory; quality and link attributes not verified. No reciprocal condition not yet confirmed from full linking guidelines, so do not submit until checked.
+5. **ServerWorth** — official terms confirm free permanent provider listing, no paid placement/ranking and no commercial relationship required. URL: https://serverworth.com/list-your-vps/ . Already contacted via email 23 Nov to grobson@greyfoxlimited.com after hello@serverworth.com bounced. Do not submit duplicate contact until response.
+6. **LowEndBox** — official current provider FAQ confirms VPS offers can be submitted through Help Desk and asks for plan specs, virtualization, location/data-center details, test IPs, company registration evidence and prices. URL: https://lowendbox.com/submit-an-offer/ . Still not submitted: only one Germany test IP (138.201.37.112) supplied; it does not document both German cities; no Iran test IP; Toman pricing may need editorial conversion/approval. Do not invent or convert silently.
+7. **FreeHosts.eu** — accepts only providers with a genuinely free (not trial) hosting plan available at least 2 months, submitted through Discord. NegarNovin's listed VPS are paid, so not eligible; exclude.
+8. **100Best Free Web Space** — free submission requires reciprocal text link on NegarNovin homepage; excluded.
+9. **FreeHosting1** — requires backlink/banner on provider homepage and is only for free hosting providers; excluded.
+10. **WHTop** — current terms confirm free basic listing only if a reciprocal badge/link is placed on NegarNovin website; otherwise listing fee applies and there is a 3,000+ review backlog. Excluded under no-reciprocal/no-paid rule.
+11. **HostList** — confirmed current directory displays NegarNovin as added 21 Nov 2026 in Tehran, Iran. Existing active listing; not a new submission. https://hostlist.io/ .
+
+### General directory submission route
+- **Zearches** official page confirms free public listing, no account, no backlink exchange, max 30-character title and max 250-character description. The Business & Company Sites category exists. URL: https://zearches.com/ . A manual request email was already sent 23 Nov; direct form route is now confirmed. No form submitted in this pass.
+- **Global Site Directory** official form requires company name, website, category, phone, city, state and description; says free permanent dofollow link and human review in 24–48 hours. URL: https://gsdirectory.org/submit/ . No form submitted.
+
+### Current limitations
+- No new external listing was submitted or published in this pass. Web research can verify forms and terms but cannot perform external browser form submission or email verification here.
+- Keep all candidates separated from active backlinks until a public profile URL is verified.
