@@ -345,3 +345,31 @@ No paid listings, featured upgrades, paid verification, reciprocal links, fabric
 ### Current limitations
 - No new external listing was submitted or published in this pass. Web research can verify forms and terms but cannot perform external browser form submission or email verification here.
 - Keep all candidates separated from active backlinks until a public profile URL is verified.
+
+
+## Free-tool-only execution update — 23 November 2026
+
+### Tool constraint
+- User explicitly declined any TinyFish wallet top-up. Do not purchase or request paid browser credits. No free general-purpose browser automation tool is available in the current connected toolset. Use Gmail for direct editorial submissions and WordPress/GitHub APIs for owned content only; do not pretend that these APIs submit external website forms.
+
+### New editorial pitch actually sent
+- **TechNovice** (independent Swiss technology publication): free editorial contributions; minimum 800 words; one or two contextual dofollow links may be included only when genuinely useful; publication and link decisions remain editorial, and links primarily for SEO may be removed or qualified.
+- Pitch sent to contact@technovice.net on 23 November 2026.
+- Subject: `Guest article proposal: Securing AI-assisted Linux server operations for SMEs`
+- Proposed title: “Before Giving an AI Agent Root Access: A Practical Security Model for Linux Server Operations”.
+- Outline covers action-risk classification, separate identities/short-lived credentials, least privilege, approval gates for production changes, audit trails, rollback and SME checklist.
+- Author affiliation with NegarNovin was disclosed. The pitch requests no paid placement or guaranteed backlink.
+- Gmail message/thread ID: 1a207be740359201.
+- Status: sent; awaiting editorial response. No article or backlink published yet.
+
+### Previously submitted by email; not to be duplicated
+- VPSProof full hosting offer submission already sent 23 Nov (thread 1a2079943e7a12b6).
+- ServerWorth free provider listing request already sent 23 Nov (thread 1a20775f589e596b).
+- Zearches manual listing inquiry already sent 23 Nov (thread 1a207678a94fd896). Their public form is the standard route; direct submission still requires a browser form POST.
+- Data Center Knowledge Industry Perspectives proposal already sent in earlier thread 1a1fcf93cd883b9d.
+- Data Center POST contributor inquiry already sent (thread 1a1fd0264e839fbd).
+- DataCentral editorial pitch already sent (thread 1a1fcf89f2829a8c).
+- No new public listing or published media page resulted from this update.
+
+### Verified free editorial source
+- TechNovice official guidelines: https://www.technovice.net/write-for-us . Free editorial contributions, minimum 800 words, editorial selection; relevant links individually reviewed and may be removed/qualified if primarily for SEO. Official contact: contact@technovice.net.
