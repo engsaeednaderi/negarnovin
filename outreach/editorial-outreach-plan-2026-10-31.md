@@ -189,3 +189,23 @@ Do not count a draft, email, directory form or pending editorial pitch as a back
 
 - HostAdvice: public brand-submission materials state that submitting a hosting company is free; detailed submission form requires company address, starting price, data center entries, service features and at least one hosting offer. Sent eligibility inquiry to info@hostadvice.com on 23 November 2026 asking whether Iran-headquartered providers qualify and confirming no paid placement, reciprocal link or paid review will be accepted. Thread: 1a207a0d2040b889. No profile submitted yet.
 - HostFilter: public site states its brand submission is free and creates a company profile. Submission not completed; no verified public submission URL or direct editorial contact confirmed in this pass. Treat as a candidate only, not a live listing.
+
+
+## LowEndBox Germany VPS offer — plan data extracted 23 November 2026
+
+Source catalogue: https://negarnovin.com/سرور-مجازی-آلمان/
+The page identifies KVM, Hetzner Germany, NVMe, 10Gbps port, unlimited bandwidth, fixed dedicated German IP, Windows/Linux and automatic provisioning. The extracted page labels the visible tariff as monthly. Monthly prices below use the first price shown for each plan; annual totals are also shown separately on the source page. Page crawl timestamp is older than this review, so all prices must be re-confirmed live before ticket submission.
+
+Indicative USD conversions use 268,000 Toman/USD (free-market reference, 23 Nov 2026); these are not fixed USD billing prices:
+- Starter DE: 4 GB RAM, 2 vCPU / 2 GHz, 30 GB NVMe, unlimited bandwidth, 10Gbps port — 1,100,000 Toman/month ≈ $4.10/month.
+- Advanced DE: 6 GB RAM, 4 vCPU / 4 GHz, 40 GB NVMe — 1,300,000 Toman/month ≈ $4.85/month.
+- Standard DE: 10 GB RAM, 6 vCPU / 6 GHz, 50 GB NVMe — 1,500,000 Toman/month ≈ $5.60/month.
+- Business DE: 12 GB RAM, 6 vCPU / 6 GHz, 60 GB NVMe — 1,800,000 Toman/month ≈ $6.72/month.
+- Professional DE: 16 GB RAM, 8 vCPU / 8 GHz, 70 GB NVMe — 2,200,000 Toman/month ≈ $8.21/month.
+- Enterprise DE: 24 GB RAM, 12 vCPU / 12 GHz, 80 GB NVMe — 2,500,000 Toman/month ≈ $9.33/month.
+- Ultra DE: 32 GB RAM, 12 vCPU / 12 GHz, 90 GB NVMe — 3,000,000 Toman/month ≈ $11.19/month; above LowEndBox unmanaged VPS guideline.
+- Hyper DE: 32 GB RAM, 16 vCPU / 16 GHz, 100 GB NVMe — 3,500,000 Toman/month ≈ $13.06/month; above guideline.
+
+Proposed LowEndBox offer: one Germany KVM VPS offer with Starter through Enterprise tiers (six plans at or below the $10/month guideline). Omit Ultra and Hyper from the initial low-end offer unless LowEndBox editorial team approves an exception. Do not advertise Toman prices as fixed USD prices; conversions are indicative only and fluctuate with FX. Confirm current prices and checkout currency before submission.
+
+Outstanding submission requirements not established by the public landing page: exact Hetzner facility city/site, test IP and test file(s), and a link/attachment for NegarNovin business registration. LowEndBox's current official rules ask for these details and state featured listings are free; one offer per provider per 30 days. No ticket submitted yet.
