@@ -232,3 +232,35 @@ Shared features from live product page: KVM; Hetzner Germany; NVMe; 10Gbps port;
 Official LowEndBox ticket template requires company name/domain, ToS/legal links, accepted payment methods, registration country/number or public WHOIS, >3 sentences company background (the Submit An Offer page asks 6–8 sentences), DC name + city/country + test IP/looking glass, and up to ~6 offers. Host node physical specs are a separate template field but not supplied; omit rather than invent. Helpdesk ticket URL: https://services.lowendtalk.com/submitticket.php?step=2&deptid=5 . Featured editorial offers are free; unmanaged VPS guide is <= $10/month; one published offer per provider per 30 days.
 
 Status: DRAFT PREPARED — NOT SUBMITTED. Outstanding: attach registration proof, supply/confirm Nuremberg test IP, confirm exact city allocation for each plan and revalidate prices/FX at submission time. Never publish the registration document publicly.
+
+
+## Activity update — 23 November 2026 (Iran + Germany product alignment)
+
+### Iran/Germany comparison article published
+- WordPress post ID: 22; status: publish.
+- Title: «سرور مجازی ایران یا آلمان؟ مقایسه قیمت و منابع یکسان در نگارنوین»
+- URL: https://negarnovininfrastructurejourna.wordpress.com/2026/11/23/iran-germany-vps-same-prices-resources-negarnovin/
+- Confirms that the eight matching resource/price tiers appear in both official product pages. Explains location selection and does not imply identical facilities/network routes.
+
+### Corrected cross-location pricing facts
+- User explicitly confirmed that Iran and international VPS prices are the same; Iran and Germany product pages show matching eight tiers (Starter through Hyper) with identical monthly Toman prices and resource allocations.
+- Billing currency: Toman. Do not publish fixed USD pricing without a current exchange-rate basis and editorial acceptance of non-USD pricing.
+- Germany endpoint supplied: 138.201.37.112. Treat as one Germany test endpoint only; no Nuremberg-specific endpoint supplied.
+- No Iran test IP supplied/verified.
+- User states service coverage across all continents and 75+ locations / 100+ leading data centers. Website carries similar footprint claims. In external directory copy, attribute these as website-published claims, do not say NegarNovin owns all facilities, and confirm each city/facility and current availability before asserting it is orderable.
+
+### Directory/media kit created
+- New repository file: `brand/negarnovin-directory-media-kit.md`
+- Contains short/long company descriptions, official links, eight matched Iran/Germany tiers, plan feature caveats, footprint-claim qualification, test endpoint status, legal links, disclosure, and a list of claims to avoid.
+- GitHub commit: 1dcd81100dadf25478b7ba8e4ef2c6cbfb43cfe9.
+
+### Directory status / constraints
+- Cloud Hosting Directory: current terms explicitly state it is a free independent editorial directory and that providers may be submitted for review; acceptance is not guaranteed. Contact email is obfuscated in search results and no verified working submission form was confirmed. No submission made.
+- HostAdvice: eligibility inquiry previously sent; no new editorial response found in latest targeted inbox review. Do not count newsletter mail as a listing response.
+- HostList listing remains active: https://hostlist.io/host/negarnovin-tehran-iran .
+- LowEndBox: still not submitted. Need to resolve whether editorial policy accepts Toman-denominated offers, verify current exchange conversion if USD equivalence required, provide official business-registration evidence as a private ticket attachment, and verify exact location-specific test IPs. One supplied Germany IP does not prove both Falkenstein and Nuremberg; Iran test IP is also absent.
+- WHTop excluded because free listing requires a reciprocal badge/backlink.
+- No new profile or backlink should be marked live without a public listing URL or explicit acceptance.
+
+### Data Center Edition correspondence
+- Editorial team explicitly accepted the pitch, requested an outline, then requested a full draft. Full vendor-neutral manuscript was sent on 23 November 2026; it is awaiting editorial review. This is a substantive earned-media opportunity, not a published article or backlink yet.
