@@ -141,3 +141,24 @@ Do not count a draft, email, directory form or pending editorial pitch as a back
 - dotmagazine / eco Association: eligibility inquiry sent 23 November 2026 to dotmagazine@eco.de. Asked whether external practitioners outside eco / DE-CIX membership, partner, or customer status can contribute. No article submitted; awaiting eligibility clarification.
 - TechVendorIndex: reviewed free vendor-inclusion criteria. Submission requires verifiable customer references or analyst coverage; service providers are expected to show named partners, public case studies, and an identifiable operating region. Do not submit until evidence and eligibility are confirmed.
 - Enterprise League: confirmed public company profiles are free and do not require reciprocal links or a credit card. Account/profile creation not completed; paid verification/visibility add-ons are not approved and must be skipped.
+
+
+## Activity update — 23 November 2026 (continued)
+
+### New technical article published
+- WordPress site: https://negarnovininfrastructurejourna.wordpress.com/
+- Title: «عیب‌یابی TCP Retransmission در لینوکس؛ از nstat و ss تا تشخیص Packet Loss»
+- URL: https://negarnovininfrastructurejourna.wordpress.com/2026/11/23/linux-tcp-retransmission-packet-loss-nstat-ss/
+- WordPress post ID 20; status confirmed as publish.
+- Scope: before/after counter collection with nstat and ip -s link, per-socket ss diagnostics, ethtool and softnet counters, MTU/path checks, bounded tcpdump capture, evidence interpretation, and cautions against random sysctl changes.
+- Includes links to Linux kernel docs, man-pages, Red Hat documentation, and contextual links to NegarNovin's VPS and About pages. Newsletter email was explicitly disabled for this post.
+
+### Free provider directory submissions sent
+- Few Servers: submission sent to hello@fewservers.com on 23 November 2026. Free human-reviewed listing requested; no paid/sponsored placement, tested badge, rating, or reciprocal link requested. Awaiting editorial review.
+- VPSProof: submission sent to contact@vpsproof.com on 23 November 2026 with subject “[Hosting Offer Submission]”. Requested only free editorial evaluation; offered to provide a nominated plan and test/looking-glass details if required. Awaiting response.
+- Cloud Hosting Directory: verified free editorial submission policy, but no verified submission address or usable form was established in this session; not submitted.
+- VPSchart excluded because its free listing tiers require a reciprocal backlink or affiliate relationship.
+
+### Current directory constraints
+- Do not mark any of the above as listed until a public provider page or explicit acceptance is received.
+- Use live catalogue URLs for current plan details; avoid hardcoding prices, location totals, or service availability into third-party listings.
