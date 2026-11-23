@@ -301,3 +301,22 @@ Scope: candidates not previously listed in this tracker; public web search for e
 ### Current action limitations
 - No external profile was created or submitted in this research pass. External registration forms requiring account signup, email verification, social authentication, photo upload or exact street address were not bypassed. Candidate research is not a listing and must not be reported as a backlink.
 - Do not pay for Clutch Verified or any optional featured placement. Free Clutch Basic has no website link from directory pages.
+
+
+## Fresh directory research — 23 November 2026 (additional batch)
+
+These domains were not present in the previously maintained candidate list. No external form submission was completed in this pass; interactive signup / verification is still required. Candidates and quality notes:
+
+1. **GetListedGlobal** — free worldwide business listing; requires free account, public contact details, business location and image; editorial review usually within 24 hours. Official submission: https://getlistedglobal.com/submission/ . Official directory says website field is the main business link; links inside descriptions are nofollow. Public listing pages exist by country/city/category. New candidate, not submitted.
+2. **Global Site Directory (gsdirectory.org)** — says free permanent listing, dofollow website backlink and human review in 24–48h. Current directory only has 114+ listings and category mix is mostly local consumer businesses; IT Services category exists. Low authority / new directory; test only after inspecting add-listing form and terms, not a high-priority SEO asset. https://gsdirectory.org/ . New candidate, not submitted.
+3. **Expasiat** — free company profile, worldwide eligibility, positioned as an AI-readable company directory; also allows articles/promotions/jobs. Current site lists 195+ country hubs and 11 languages; contact via site support/WhatsApp +44 7576 987144. No verified account signup details or profile created. https://expasiat.com/pricing . New candidate, not submitted.
+4. **GreatInflux** — free business page and website link, global eligibility; requires exact street address, postcode, phone, opening hours, 1–4 photos and free account. Exact public street address/hours are not confirmed in company record; do not submit guessed details. https://greatinflux.com/online-business-directory . New candidate, not submitted.
+5. **InfoWebWorld** — offers free basic listing with website link; paid plans from $49-$239 add dofollow link and extra features. Free link may be useful as a basic citation, but profile is category-driven and current directory appears heavily focused on SaaS / local agencies; confirm eligibility for hosting infrastructure before creating account. https://www.infowebworld.com/ . New candidate, not submitted.
+6. **Biz Web Directory** — states free business submissions and optional paid priority review; standard queue free. Editorial quality/category fit not yet confirmed; inspect the form and policies before creating profile. https://www.bizwebdirectory.com/listing-options . New candidate, not submitted.
+7. **ListUrBusiness** — claims free basic listings worldwide but its indexed page is stale (last crawl 1.6 years ago) and latest listings include low-quality/spam-like content; exclude from priority due quality risk. https://listurbusiness.com/ . New candidate, not submitted.
+
+### Email review — 23 November 2026
+Targeted inbox search for the last 5 days across LowEndBox/LowEndTalk, HostAdvice, ServerWorth, VPSProof, HostVeritas, VPSAdvisor, StackHarden, Linux Magazine, Data Center Edition, ProdCraft and dotmagazine returned two threads: the existing Data Center Edition correspondence and an unrelated HostAdvice newsletter. No new editorial acceptance or directory response. Data Center Edition's full draft was sent 23 Nov; awaiting editor response.
+
+### Submission policy
+No paid listings, featured upgrades, paid verification, reciprocal links, fabricated reviews, invented address/hours, or unsupported business facts. Do not report any candidate as a published profile or backlink until a public listing URL is verified.
