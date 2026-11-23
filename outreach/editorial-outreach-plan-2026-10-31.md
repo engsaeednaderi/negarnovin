@@ -136,3 +136,8 @@ Do not count a draft, email, directory form or pending editorial pitch as a back
 ### New owned technical asset
 - Added a GitHub technical runbook on safe online Linux filesystem expansion using LVM, ext4 and XFS: https://github.com/engsaeednaderi/negarnovin/blob/main/technical-guides/linux-online-filesystem-expansion-lvm-ext4-xfs.md
 - This is an owned technical resource, not independent editorial coverage or a third-party backlink.
+
+- Data Center Edition: editor approved the outline and requested the full manuscript; full draft sent 23 November 2026. Awaiting editorial review. The submitted version includes an anonymized 32 GiB VM case, carefully distinguishes VM-specific evidence from host-wide swap, and explicitly states that no verified before/after measurements or definitive root cause are available.
+- dotmagazine / eco Association: eligibility inquiry sent 23 November 2026 to dotmagazine@eco.de. Asked whether external practitioners outside eco / DE-CIX membership, partner, or customer status can contribute. No article submitted; awaiting eligibility clarification.
+- TechVendorIndex: reviewed free vendor-inclusion criteria. Submission requires verifiable customer references or analyst coverage; service providers are expected to show named partners, public case studies, and an identifiable operating region. Do not submit until evidence and eligibility are confirmed.
+- Enterprise League: confirmed public company profiles are free and do not require reciprocal links or a credit card. Account/profile creation not completed; paid verification/visibility add-ons are not approved and must be skipped.
