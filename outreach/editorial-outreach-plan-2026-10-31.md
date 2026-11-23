@@ -264,3 +264,40 @@ Status: DRAFT PREPARED — NOT SUBMITTED. Outstanding: attach registration proof
 
 ### Data Center Edition correspondence
 - Editorial team explicitly accepted the pitch, requested an outline, then requested a full draft. Full vendor-neutral manuscript was sent on 23 November 2026; it is awaiting editorial review. This is a substantive earned-media opportunity, not a published article or backlink yet.
+
+
+## New external directory research — 23 November 2026
+
+Scope: candidates not previously listed in this tracker; public web search for exact NegarNovin brand/profile matches returned no clear indexed matches for Crunchbase, Clutch, Brownbook or Wellfound in this pass. Absence from search is not proof of absence; check each site's internal search before creating a duplicate.
+
+### Brownbook — highest-priority business directory candidate
+- Free listing is stated on Brownbook's own pages; form collects business name/category, address/city/country, contact, website and tags. Website link is included in free listing; no reciprocal link condition shown.
+- Add URL: https://www.brownbook.net/add-business
+- Current form requires an account/email validation to complete, according to current form flow; older Brownbook help says guest submissions can be email-verified. Account creation and email confirmation are required for a verified owner listing. Not submitted; no account credentials or email verification handled in this pass.
+- Do not invent exact street address or postal code. City-level address may be accepted by current form; use only confirmed public office address details.
+
+### Clutch — free company profile, but no free directory backlink
+- Official free Basic profile: https://clutch.co/get-listed . It includes company information and basic analytics, but official pricing page explicitly says no link to the provider's website from directory pages in Basic. Paid Verified is $499/year and is prohibited by project budget/authorization.
+- Free profile setup requires sign-in via LinkedIn, Google or company email and manual onboarding. No account/profile created in this pass. A basic profile could still offer independent company discovery and inclusion in The Manifest, but not a backlink from Clutch directory pages.
+- Official help confirms company profile setup and free features; references captured in web search this turn.
+
+### Crunchbase — free editable company profile
+- Official help says a registered and socially authenticated user can create a company profile at no cost; must search first to avoid duplicates. Required profile fields include company name, logo, founded date, website, description, HQ and industries.
+- Guide: https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile
+- Requires signed-in account/social authentication. No account access or company profile created in this pass. Do not add unverified funding, revenue, employee counts, founders, or investor information.
+
+### Wellfound — free startup/employer profile
+- Official help says company profile is created after personal user account signup and recruit onboarding: https://wellfound.com/onboarding/recruit . Basic company profile and job posting can be free.
+- This is primarily a recruiting/startup platform, not a hosting-provider backlink directory. No hiring role was authorized and no account/profile created. Lower priority unless NegarNovin wants to recruit.
+
+### MeWebLink — free general website directory (nofollow/UGC)
+- Official page: https://meweblink.com/ . No account, submission fee or reciprocal link; eligible listings receive public detail pages and links, but official policy states submitted links are UGC/nofollow and indexing is not guaranteed.
+- Submission form is a three-step website description/category flow; current site offers automatic checks. No submission was performed because this environment has no authorized interactive browser session for external forms; do not claim a listing exists.
+
+### GreatInflux — not submitted
+- Official page says free business profile and website link, global availability. Requires exact business address, contact, hours, 1–4 photos and free account. No exact street address or opening hours were confirmed; don't submit using guessed details.
+- URL: https://greatinflux.com/online-business-directory
+
+### Current action limitations
+- No external profile was created or submitted in this research pass. External registration forms requiring account signup, email verification, social authentication, photo upload or exact street address were not bypassed. Candidate research is not a listing and must not be reported as a backlink.
+- Do not pay for Clutch Verified or any optional featured placement. Free Clutch Basic has no website link from directory pages.
