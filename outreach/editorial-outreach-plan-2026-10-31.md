@@ -115,3 +115,24 @@ For every activity, record:
 - Next action and owner
 
 Do not count a draft, email, directory form or pending editorial pitch as a backlink.
+
+
+## Activity update — 23 November 2026
+
+### Data Center Edition — full manuscript submitted
+- Contact: editorial@datacenteredition.com
+- Working title: “When a Linux VM Runs Out of Memory: Separating Guest Pressure from ESXi Host Contention”
+- Status: the editor accepted the initial pitch, requested an outline, approved the outline, and then requested the full manuscript. Full draft sent by email on 23 November 2026 for editorial review.
+- The draft distinguishes guest swap from VMKernel swap and avoids attributing the observed host swap total to the example VM without evidence. It explicitly states that verified before/after measurements are unavailable and does not claim a confirmed root cause.
+- Editorial requirements acknowledged: vendor-neutral treatment, anonymized case, source links, byline and commercial disclosure.
+- Next action: await editorial feedback. Do not publish or repurpose this manuscript until the editor's review and any exclusivity terms are clear.
+
+### Other pending submissions
+- StackHarden: guest contribution pitch sent 23 November 2026; awaiting response.
+- Linux Magazine: pitch sent 23 November 2026; awaiting response. Keep the inode-exhaustion topic reserved pending reply.
+- Linux.com: filesystem expansion runbook pitch sent 23 November 2026; awaiting response.
+- ProdCraft and Gulf ICT News: earlier pitches remain under editorial review; no publication confirmation recorded.
+
+### New owned technical asset
+- Added a GitHub technical runbook on safe online Linux filesystem expansion using LVM, ext4 and XFS: https://github.com/engsaeednaderi/negarnovin/blob/main/technical-guides/linux-online-filesystem-expansion-lvm-ext4-xfs.md
+- This is an owned technical resource, not independent editorial coverage or a third-party backlink.
