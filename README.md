@@ -46,6 +46,7 @@ Current plans, availability, technical specifications, and service terms are pub
 - [VMware memory ballooning in Linux VMs](technical-guides/vmware-memory-ballooning-linux.md)
 - [Measuring Linux VPS network latency and packet loss](technical-guides/linux-vps-latency-measurement.md)
 - [systemd service troubleshooting runbook](technical-guides/systemd-service-troubleshooting-runbook.md)
+- [Safe online filesystem expansion with LVM, ext4, and XFS](technical-guides/linux-online-filesystem-expansion-lvm-ext4-xfs.md)
 - [DEV-ready article: Ubuntu VPS network troubleshooting](articles/dev/ubuntu-vps-network-troubleshooting.md)
 - [Read-only Ubuntu network diagnostics script](scripts/ubuntu-network-diagnostics.sh)
 
