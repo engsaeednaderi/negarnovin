@@ -56,6 +56,7 @@ These are owned or maintained by the company or its contributors. They are usefu
 - WordPress company and service publication: https://negarnovin.wordpress.com/
 - WordPress technical knowledge base: https://negarnovininfrastructurejourna.wordpress.com/technical-knowledge-base-index/
 - English technical publication, Infrastructure Field Notes: https://infrastructurefieldnotes.wordpress.com/
+- English author profile: https://infrastructurefieldnotes.wordpress.com/saeed-naderi/ (published 24 November 2026; linked from the Technical Library page)
 - New English author profile: https://infrastructurefieldnotes.wordpress.com/saeed-naderi/
 - Public GitHub repository and technical resources: https://github.com/engsaeednaderi/negarnovin
 
@@ -74,6 +75,22 @@ These are owned or maintained by the company or its contributors. They are usefu
 ### ProdCraft
 - Topic pitched: “A Safer Linux Patching Workflow for Production VPS Operators.”
 - Status: The official guest-post address returned SMTP 530 “Authentication required” on 23 and 24 November. The public Contact page lists contact@prodcraft.dev for general questions, and an inquiry asking for a functioning submission route was sent there on 24 November. No manuscript was resent.
+
+### Other editorial opportunities researched
+- **DZone:** accepts original, firsthand technical articles through a free contributor account. The author profile must use the real person’s name, not a company identity or logo. The publication rejects fully or partially AI-generated final articles and promotional content; current review time is approximately 30 business days. No account or article was submitted in this pass.
+- **InfoQ:** requires original, unpublished educational content through its article form. It limits authors to one proposal at a time and one per quarter; its current form excludes Architecture & Design, AI/ML/DE and DevOps queues. No proposal was submitted to a closed queue.
+- **DigitalOcean Community:** requires a proposal, detailed outline and writing sample before an editor may invite a full tutorial. Accepted authors sign a publication contract and receive testing credit to validate the tutorial. No proposal has been submitted.
+
+
+### Cloud Hosting Directory
+- Submission route: https://www.cloudhostingdirectory.com/pages/submit.html
+- Status: A provider submission was sent on 24 November 2026 to the directory's published submission mailbox. The directory states that listings are free, manually reviewed, editorial, and not guaranteed. It does not publish invented prices and links readers to providers' official pricing pages.
+- No public listing is live yet.
+
+### Tehran Index
+- Research directory: https://tehranindex.com/companies
+- Status: A source-backed company-record suggestion was sent to desk@tehranindex.com on 24 November 2026.
+- The request asks for field-level source links and an appropriate Reported or Coverage Pending evidence state until legal identity can be independently confirmed. No company record is live yet.
 
 ## Listings and submissions not yet completed
 
