@@ -43,6 +43,7 @@ Current plans, availability, technical specifications, and service terms are pub
 ## Technical resources
 
 - [Ubuntu VPS network troubleshooting](technical-guides/ubuntu-vps-network-troubleshooting.md)
+- [Ubuntu VPS SSH access diagnostics without rebooting](docs/technical-guides/ubuntu-ssh-access-diagnostics.md)
 - [VMware memory ballooning in Linux VMs](technical-guides/vmware-memory-ballooning-linux.md)
 - [Measuring Linux VPS network latency and packet loss](technical-guides/linux-vps-latency-measurement.md)
 - [systemd service troubleshooting runbook](technical-guides/systemd-service-troubleshooting-runbook.md)
