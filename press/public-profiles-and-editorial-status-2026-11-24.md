@@ -291,3 +291,34 @@ Sources checked:
 - **Zearches:** acknowledged its instruction to use the free direct-submission form; the submission is still pending and no public profile is live.
 - **Open Source For You:** pitched a new tutorial idea on changing Linux network settings over SSH without locking out the operator.
 - **Linux Professional Institute:** pitched an educational article about turning Linux troubleshooting into repeatable incident runbooks.
+
+
+## Additional outreach — 24 November 2026 (new direct-email channels)
+
+### Linux Journal
+- Contributor guidance: https://www.linuxjournal.com/author/authguide
+- Editorial contact: ljeditor@linuxjournal.com
+- Pitch sent on 24 November 2026: “Building a Clean, Reproducible Ubuntu Server Template for Virtualized Infrastructure.”
+- Scope: preparing Ubuntu Server images for cloning; separating image content from per-instance state; cloud-init datasource checks; machine-id and SSH host-key cleanup; network-manager assumptions; two-clone acceptance tests; disk expansion; versioned manifests.
+- The pitch disclosed professional affiliation with NegarNovin and asked the editors to confirm topic fit and current bio/link policy.
+- The author guide requests plain-text query letters with an outline, states typical feature length of 2,000–3,500 words, and indicates that publication is not guaranteed. It also has a strict exclusivity/first-rights process: once submitted, the manuscript cannot be submitted elsewhere while in its publication queue.
+- Status: Idea sent; no response or acceptance yet. Do not send the full article to any other outlet while Linux Journal is considering this specific story.
+
+### Opensource.com
+- Contributor page: https://opensource.com/participate
+- Editorial contact: open@opensource.com
+- Pitch sent on 24 November 2026: “Before You Clone It: Cleaning Up an Ubuntu Server VM Template.”
+- Scope: Ubuntu Server template hygiene, cloud-init datasource validation, per-instance machine identity and SSH host keys, network assumptions, two-clone testing, disk expansion and versioned template acceptance.
+- The first-time contributor process asks authors to send an idea to the editorial team before entering a full article. Account creation is needed to become an author.
+- Status: Idea sent; no response or acceptance yet. No author account or public article page has been created.
+
+### GoodFirms follow-up
+- On 24 November 2026, the listing team reiterated that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization.
+- Acknowledgment was sent in reply on 24 November 2026. The standard free account registration and company profile remain uncompleted.
+
+### New-source screening notes
+- **nixFAQ:** accepts educational Unix/Linux and hosting topics but explicitly says it is not a link-building opportunity and all inserted links are nofollow. Contact is contact@nixfaq.org. Not prioritized for SEO link equity; it may still be considered for audience exposure if the editorial subject is strong.
+- **Virtualization.net:** accepts contributed virtualization/cloud articles and says accepted contributors can receive a dedicated author bio page. The published site contact route was identified but no publicly verifiable email address was extracted; no email was sent and no submission was made through an inaccessible form.
+- **Computer Tech Reviews:** the $100 guest-post offer was already declined; its representative acknowledged closure. No further response is needed.
+- **LinuxSecurity/GuardianDigital:** the response remains dismissive after the paid-link/reciprocal-link proposal was declined. The thread is closed; no further response is needed.
+- **Open Source For You and Linux Professional Institute:** the earlier idea pitches sent on 24 November remain awaiting editorial responses. No duplicate follow-up was sent.
