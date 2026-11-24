@@ -170,7 +170,7 @@ These are owned or maintained by the company or its contributors. They are usefu
 ### BestVPSHosting.io
 - Submission route: https://bestvpshosting.io/submit-provider
 - Contact: hello@bestvpshosting.io
-- Status: A pre-submission inquiry was sent on 24 November 2026 asking whether Iran-headquartered providers are eligible, whether the form can retain IRT pricing instead of inventing a USD conversion, which business-registration evidence is accepted, and whether anonymous 30-day testing is entirely free.
+- Status: An initial pre-submission inquiry was sent on 11 November 2026. A more specific follow-up was sent on 24 November 2026 asking whether Iran-headquartered providers are eligible, whether the form can retain IRT pricing instead of inventing a USD conversion, which business-registration evidence is accepted, and whether anonymous 30-day testing is entirely free. No response or delivery failure is currently recorded for the 24 November message.
 - The site advertises free submissions but requires a valid business-registration check, 24/7 customer support, public pricing and a stated uptime SLA or guarantee. It also says it will anonymously purchase a test account after initial review.
 - No application, fee, business document or test account has been supplied. No public profile exists yet. Do not submit until eligibility, IRT price display and the exact required company evidence are confirmed.
 
