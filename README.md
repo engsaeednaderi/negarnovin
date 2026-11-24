@@ -42,6 +42,7 @@ Current plans, availability, technical specifications, and service terms are pub
 
 ## Technical resources
 
+- [Technical guides index](docs/technical-guides/index.md)
 - [Ubuntu VPS network troubleshooting](technical-guides/ubuntu-vps-network-troubleshooting.md)
 - [Ubuntu VPS SSH access diagnostics without rebooting](docs/technical-guides/ubuntu-ssh-access-diagnostics.md)
 - [VMware memory ballooning in Linux VMs](technical-guides/vmware-memory-ballooning-linux.md)
