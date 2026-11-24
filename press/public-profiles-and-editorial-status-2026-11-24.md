@@ -343,3 +343,21 @@ Sources checked:
 - Proposed coverage: cloud-init datasource, per-instance identity and SSH keys, network assumptions, two-clone testing, disk expansion, agent enrollment and versioned image manifests.
 - ServerWatch explicitly invites tips, questions, pitches and corrections. Its editorial policy emphasizes objective, independently checked and human-authored content.
 - Status: Pitch sent; no reply or delivery failure was present in the immediate inbox check. No editorial acceptance or publication is confirmed.
+
+
+## Delivery corrections and outreach pause — 24 November 2026
+
+- **ServerWatch:** the pitch sent to the published editorial address editor@serverwatch.com returned SMTP 550 5.1.1 “recipient does not exist”. The pitch was not delivered. Do not retry the same address unless the publisher provides a verified alternative.
+- **Opensource.com:** the pitch sent to open@opensource.com returned SMTP 550 5.1.1 “User unknown in virtual alias table”. Earlier messages to the same address had also bounced. No pitch reached the editorial team.
+- **Linux Journal:** the pitch sent to ljeditor@linuxjournal.com returned SMTP 550 5.1.1 “email account does not exist”. Earlier messages to ljeditor@linuxjournal.com and write@linuxjournal.com also bounced. The live masthead directs new contributors to the contact form while the publication rebuilds its editorial staff. No pitch reached the editorial team by email.
+- **Linux Magazine:** review of the mailbox found four separate earlier proposals sent on 23 November 2026, covering deleted-open disk space, Linux VM memory pressure, /32 routing, and systemd sandboxing. A further systemd proposal was sent on 24 November before that history was recognized. No editorial response or acceptance is present. Pause all additional proposals and follow-ups to Linux Magazine until the editorial team replies; do not send another message now.
+- **Open Source For You and Linux Professional Institute:** the 24 November idea pitches remain in their respective sent folders with no editorial response recorded. Do not send duplicate follow-ups yet.
+
+### Confirmed email replies sent — 24 November 2026
+- Replied to VPSProof declining both paid placement and a one-year complimentary VPS exchange.
+- Replied to HostingSeekers declining an estimated USD conversion and asking for the numeric price field to be removed or the free profile to be temporarily unpublished.
+- Replied to Zearches acknowledging the free submission form and no-reciprocal-link policy.
+- Replied to TechEngage acknowledging manuscript receipt and the editorial review stage.
+- Replied to GoodFirms acknowledging the free company listing and no paid add-ons without authorization.
+
+The above emails are recorded as sent, not as accepted offers or published placements. No new WordPress.com pages, no TinyFish browser automation, and no paid placements were used in this pass.
