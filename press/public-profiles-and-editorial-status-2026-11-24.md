@@ -203,3 +203,82 @@ Sources checked:
 - https://negarnovin.com/vps/
 - https://negarnovin.com/about-us/
 - https://negarnovin.com/terms-and-conditions/
+
+
+## New work completed — 24 November 2026 (afternoon)
+
+### New inbound email responses and replies sent
+
+#### VPSProof
+- Incoming response: the provider states it does not offer free directory listings without consideration. It offered either paid placement or a complimentary VPS supplied for at least one year in exchange for the listing.
+- Reply sent: declined both a paid placement and a one-year free VPS commitment; asked to close the submission unless its policy changes to a listing with no payment or hardware exchange.
+- Status: Not listed. No machine or payment was offered.
+
+#### HostingSeekers
+- Incoming response: the directory requires a numeric USD price and says it cannot leave the pricing field blank or replace it with a source link.
+- Reply sent: declined to authorize an assumed USD conversion; asked the directory to remove the price field while retaining the free profile and official website link, or temporarily unpublish the profile if a numeric USD price is mandatory.
+- Status: Awaiting confirmation. No USD price has been authorized. Do not cite the profile as an accurate price source until resolved.
+
+#### Zearches
+- Incoming response: the directory confirmed that the standard website listing is free, requires no account and no reciprocal backlink, and must be submitted through its official form.
+- Submission form: https://zearches.com/submit-website-free.php
+- Reply sent: confirmed that NegarNovin will use the direct website URL and Business & Company Sites category.
+- Status: Not submitted yet; no public NegarNovin page is live. The form requires a 50–250 character short description, a 300–1,000 character detailed description, three to five features, audience, practical use and a distinct-value statement. Pricing and social profiles are optional.
+
+### New editorial pitches sent
+
+#### Open Source For You
+- Contact: osfyedit@efyindia.com
+- Pitch: “Changing Linux Network Settings Over SSH Without Locking Yourself Out.”
+- Focus: identifying the active Linux network manager, validating Netplan or NetworkManager changes, keeping a second SSH session open, testing rollback and verifying routes and DNS.
+- Status: Idea pitch sent on 24 November 2026. The publication asks authors to submit an idea first, then a table of contents after approval, and a full article after that. No acceptance or publication is confirmed.
+- Guidelines: https://www.opensourceforu.com/write-for-open-source-for-you/
+
+#### Linux Professional Institute (LPI)
+- Contact: volunteer@lpi.org
+- Pitch: “From Quick Fixes to Repeatable Operations: Building a Safer Linux Incident Runbook.”
+- Focus: evidence-led Linux incident diagnosis, safe remote changes, rollback, logs, service checks and reusable incident documentation.
+- Status: Idea pitch sent on 24 November 2026. LPI says it welcomes ideas and stories from Linux/open-source practitioners and offers editorial support. No acceptance or publication is confirmed.
+- Guidelines: https://www.lpi.org/community-programs/write/
+
+### New specialist directory: Few Servers
+- Provider directory: https://www.fewservers.com/providers/
+- Direct add/claim form: https://www.fewservers.com/providers/submit/
+- Cloud/VPS category: https://www.fewservers.com/providers/cloud-vps/
+- Developer and methodology notes: https://www.fewservers.com/developers/
+- Scope: a specialist directory for cloud/VPS, dedicated, bare-metal, GPU, colocation, managed hosting and edge providers. The directory currently reports 61 providers, uses company-owned public sources and read dates for facts, does not create ratings or rankings, and says provider additions/claims are free and reviewed by a person.
+- NegarNovin was not present in the fetched 61-provider list on 24 November 2026.
+- Submission status: Not submitted yet. The exact form was identified and the required source pages reviewed. Earlier email attempts to hello@fewservers.com were subject to delivery delays; do not send another duplicate email. Use the provider form when browser submission is available.
+- Pricing: do not invent or convert a USD/EUR figure. Ask the directory to leave price blank if the form permits it, and supply official source URLs for product facts. Because the public VPS catalogue and other public pages show conflicting figures, no starting price or location count should be included until the official site is reconciled.
+- Listing page must not be described as live or claimed until the directory confirms publication.
+
+### New company knowledge base route: Crunchbase
+- Free profile creation/editing is available to registered users after social authentication; the platform asks users to search for an existing profile before creating a duplicate.
+- Official instructions: https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile
+- Profile editing at no cost: https://support.crunchbase.com/hc/en-us/articles/54324314844563-Founder-Visibility-Checklist
+- A search for an exact NegarNovin/Negarnovin Crunchbase profile did not surface a public result on 24 November 2026. This is not definitive proof of absence.
+- No account, profile or claim was created in this pass. A browser sign-in and duplicate check are needed before proceeding.
+
+### Zearches draft submission text (prepared, not submitted)
+- Website URL: https://negarnovin.com/
+- Website name: NegarNovin
+- Category: Business & Company Sites
+- Website type: Other (use a more specific provider/service option only if the live form offers one)
+- Short description (within 50–250 characters): “NegarNovin is an Iran-based cloud and IT infrastructure provider offering KVM VPS/VDS, dedicated server services, web hosting and server administration.”
+- Detailed description (within 300–1,000 characters): “NegarNovin provides cloud and IT infrastructure services for businesses, developers and IT teams. Its public catalogue covers KVM-based virtual servers, dedicated server solutions, web hosting and managed server operations, alongside SSL and domain services. Custom GPU server configurations for AI and machine-learning workloads are offered by quotation. Visitors can review service information on the official website and confirm current configuration, availability and order terms through the provider’s own catalogue and customer portal.”
+- Features:
+  - KVM-based VPS/VDS services
+  - Cloud and dedicated server solutions
+  - Web hosting and server administration
+  - SSL and domain services
+  - Custom GPU server configurations by quotation
+- Audience: “Businesses, developers, agencies and IT teams that need virtual servers, web hosting or managed server infrastructure.”
+- Practical use: “Visitors can review VPS and hosting services, compare the specifications shown in the public catalogue, and contact the provider to confirm availability and order terms.”
+- Distinct value: “The official site provides a direct service catalogue and customer portal, so visitors can review service information and confirm details with the provider before ordering.”
+- Contact email: info@negarnovin.com (private for administration; not shown publicly).
+- Pricing, social profile and service-area fields: leave blank unless the live form requires them. Do not insert a USD conversion or unverified location count.
+
+### Browser execution status
+- On 24 November 2026, TinyFish wallet balance remained -$1.224 USD. Browser automation cannot run until the wallet is funded.
+- The current browser profiles have Google sign-in recorded, but do not show an active sign-in for GoodFirms, Enterprise League, ServerVerify, WriteUpCafe, Crunchbase, Zearches or Few Servers.
+- No new WordPress.com pages were created.
