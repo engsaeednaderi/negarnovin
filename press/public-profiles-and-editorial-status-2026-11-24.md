@@ -29,18 +29,25 @@ This page lists public company profiles and technical-publication properties tha
 
 ### HostingSeekers
 - Public profile: https://www.hostingseekers.com/company/negarnovin/detail
-- Status: Public and visible without login on 23 November 2026; standard Basic plan.
-- Accuracy note: factual corrections were sent to the directory on 24 November 2026. Treat the record as published but corrections-pending until the directory confirms the revised fields.
+- Status: Public and visible without login; the directory confirmed on 24 November 2026 that the company description, support hours and unsupported service claims had been corrected. The profile remains on the free Basic plan.
+- Accuracy issue still open: the live page continued to show a USD monthly price of $6.35 even though the company has not supplied or authorized a USD price. A reply was sent on 24 November asking the directory to remove the converted figure and instead link to the official Toman catalogue. Do not treat the USD figure as verified.
+
+### VPS DB
+- Public profile: https://vps-db.com/providers/negarnovin/
+- Status: Published. The research team confirmed on 24 November 2026 that it had rechecked the official pages and updated its record.
+- The current page lists eight VPS offers with monthly Toman prices and shows the seven countries found in the order-form country selector. The record distinguishes provider-level country options from plan-specific availability, which remains unverified where the order forms do not establish it.
+- Accuracy follow-up: the page records a mismatch between the checkout tax label (“1.0%”) and the arithmetic of the displayed amount (280,000 IRR on a 2,800,000 IRR subtotal in the example). A reply was sent on 24 November requesting that the tax rate remain unverified until the label and amount are reconciled.
+- External reviews, uptime monitoring and independent benchmarks are not established by this listing.
 
 ### WebsDocs Directory
 - Public profile: https://directory.websdocs.com/business/negarnovin
-- Status: Existing public company record. The directory previously confirmed profile corrections and renewed the free owner-workspace invitation.
-- Accuracy note: use the public page itself as the source of current visible fields; do not infer that pending support requests have been completed until verified on the live page.
+- Status: Existing public company record; the directory previously confirmed profile corrections and renewed the free owner-workspace invitation.
+- Support detail confirmed by the directory: phone support is 09:00–18:00 Tehran time; customer-portal tickets can be submitted at any time through https://my.negarnovin.com/.
 
 ### OpenTencor
 - Public GPU-provider directory entry: https://opentencor.ai/guides/gpu-cloud-provider-directory.html
-- Status: Existing listing; the directory confirmed that the company description was updated on 21 November 2026.
-- Accuracy note: the directory also confirmed that headquarters and public contact details would be added. Do not treat those additional fields as published until checked on the live page. GPU availability and pricing remain configuration-specific and are described as custom quote.
+- Status: Existing listing. The live page now shows the revised provider description, Tehran headquarters, official website, public email, phone, WhatsApp and Telegram contact details.
+- The headquarters address is explicitly labelled as a head-office address only, not a server deployment location. GPU availability and specifications remain custom quote and must be confirmed individually.
 
 ## Company-maintained publication properties
 
@@ -49,6 +56,7 @@ These are owned or maintained by the company or its contributors. They are usefu
 - WordPress company and service publication: https://negarnovin.wordpress.com/
 - WordPress technical knowledge base: https://negarnovininfrastructurejourna.wordpress.com/technical-knowledge-base-index/
 - English technical publication, Infrastructure Field Notes: https://infrastructurefieldnotes.wordpress.com/
+- New English author profile: https://infrastructurefieldnotes.wordpress.com/saeed-naderi/
 - Public GitHub repository and technical resources: https://github.com/engsaeednaderi/negarnovin
 
 ## Editorial submissions under review
@@ -63,18 +71,28 @@ These are owned or maintained by the company or its contributors. They are usefu
 - Topic: diagnosing Linux VM memory pressure across guest and hypervisor layers.
 - Status: The full manuscript was submitted on 23 November 2026. An editorial decision or publication URL has not yet been received.
 
-### ServerVerify
-- Public provider page: https://serververify.com/hosting-providers/negarnovin
-- Status: The exact-match provider record exists. ServerVerify confirmed that a claim workflow is available and that the requested factual corrections remain under review.
-- Accuracy note: the company claim and email verification have not yet been confirmed. Do not describe the record as company-verified.
+### ProdCraft
+- Topic pitched: “A Safer Linux Patching Workflow for Production VPS Operators.”
+- Status: The official guest-post address returned SMTP 530 “Authentication required” on 23 and 24 November. The public Contact page lists contact@prodcraft.dev for general questions, and an inquiry asking for a functioning submission route was sent there on 24 November. No manuscript was resent.
 
 ## Listings and submissions not yet completed
 
 - **GoodFirms:** support confirmed on 24 November 2026 that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization. Account registration and the public company profile have not yet been completed.
-- **VPS DB:** the research team confirmed on 24 November 2026 that it rechecked the official pages and updated its record; details it could not verify remain marked as unknown. A direct public profile URL has not been confirmed.
+- **Cloud Hosting Directory:** a provider submission was sent on 24 November 2026 for free editorial review. The directory says submissions are manually reviewed, inclusion is not guaranteed, and provider prices are linked to the official source rather than invented. No listing is live yet.
+- **Tehran Index:** a source-backed company-record suggestion was sent to the research desk on 24 November 2026. The request asks for field-level source links and an appropriate Reported or Coverage Pending evidence state unless official legal records can be independently confirmed. No company record is live yet.
+- **VPSProof:** a free editorial provider-review submission was sent to contact@vpsproof.com on 24 November. Earlier attempts returned temporary upstream 521 errors; the latest message has not yet received a delivery confirmation or reply.
+- **ServerVerify:** the exact-match provider page exists at https://serververify.com/hosting-providers/negarnovin. The directory confirmed that an ownership-claim workflow is available and that factual corrections remain under review. Company ownership is not yet verified.
 - **DohoHub:** NegarNovin was accepted to the standard free provider waiting list on 21 November 2026. The provider form is not required; the team will add the entry when the queue reaches it. No publication date or live profile URL has been provided.
-- **ServerVerify:** profile creation and ownership-claim correspondence are in progress. Do not treat ownership as verified until the directory confirms the claim.
-- **WriteUpCafe:** an account-verification email was received on 23 November 2026. Public author-page or article publication has not been verified.
+- **WriteUpCafe:** an account-verification email was received on 23 November 2026. Public author-page or article publication has not been verified; the email verification link still needs to be completed by an authorized user.
+- **Few Servers:** four provider-listing requests were sent on 23 November 2026. No reply or public listing has been verified. Further duplicate requests have been paused.
+- **HostScoop:** the free provider submission page exists, but an email sent to the published support address returned “550 5.1.1 User unknown”. No account or company profile has been created. A signup form requires a starting-price field denominated in USD; currency eligibility remains unconfirmed.
+
+## Excluded or deferred sources
+
+- **ServerWorth:** its published provider-submission terms explicitly exclude providers based in Iran and data centres located there. No submission will be made.
+- **WHTop:** its free basic listing requires a WHTop badge/backlink to be placed on the NegarNovin website. No badge or reciprocal backlink has been authorized.
+- **Paid guest-post and paid-link proposals:** TechWebin, HowSnip, Technologyic and TheCloudVibe quoted paid placements; these were declined. No paid placement or undisclosed link has been purchased.
+- **Linux.com:** the editor stated that the contribution could not include a company link or mention of an affiliated organization. Because the intended brand attribution would be absent, the submission was not pursued on those terms.
 
 ## Editorial and factual safeguards
 
@@ -82,5 +100,6 @@ These are owned or maintained by the company or its contributors. They are usefu
 - Do not describe a company-maintained page as independent coverage.
 - Do not describe directory links as dofollow unless the publisher or a current link inspection confirms that attribute.
 - Do not invent ratings, customer reviews, awards, certifications, revenue, employee counts, ownership of partner-operated facilities or legal-registration details.
+- Do not convert Toman prices to USD/EUR using an assumed exchange rate.
 - Recheck service availability, pricing, specifications and terms against the official website before changing any third-party listing.
 - Paid placements, sponsored content, reciprocal links and purchased reviews are not authorized by this page.
