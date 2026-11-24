@@ -92,6 +92,29 @@ These are owned or maintained by the company or its contributors. They are usefu
 - Status: A source-backed company-record suggestion was sent to desk@tehranindex.com on 24 November 2026.
 - The request asks for field-level source links and an appropriate Reported or Coverage Pending evidence state until legal identity can be independently confirmed. No company record is live yet.
 
+### Enterprise League
+- Free company-directory route: https://enterpriseleague.com/register
+- Status: A pre-registration message was sent to info@enterpriseleague.com on 24 November 2026 asking whether a NegarNovin profile already exists and confirming that only the standard free profile is authorized.
+- The platform states that the basic profile is free and can display up to 20 services. Paid extras include site-wide verification visibility, awards activation and sponsored Boost. None is authorized.
+- No public NegarNovin profile has yet been confirmed.
+
+### TechVendorIndex
+- Free listing route: https://techvendorindex.com/list/
+- Status: A pre-submission eligibility question was sent to listings@techvendorindex.com on 24 November 2026.
+- The directory requires verifiable customer references or analyst coverage and, for services firms, named partners and public case studies. The inquiry transparently states that we do not currently have a public analyst report or named customer case study and asks whether a primary-source-only record can qualify.
+- No profile has been submitted or published.
+
+### StackHarden
+- Contributor page: https://stackharden.com/contribute/
+- Proposed topic: “Validating SSH Hardening on Ubuntu 24.04 Without Locking Out Remote Operators.”
+- The site offers an unpaid byline and a short author bio with one outbound author link, with commands tested against stated OS versions and no marketing content.
+- Delivery blocker: the published address editorial@stackharden.com returned SMTP 550 “Recipient address rejected: Address does not exist” on 24 November. Do not resend to the same address unless a new, verified route is found.
+
+### LowEndBox
+- Free offer route: https://lowendbox.com/submit-an-offer/
+- Status: Not submitted. Approved offer posts are free, but a submission must include actual VPS specifications, locations, billing/pricing, test IPs where available, and business registration details. The public form directs providers to a help-desk ticket.
+- This is a strong topical match for VPS offers. Prepare a ticket only after a suitable public registration document and one fully verified plan offer are ready. Do not invent company registration details or convert Toman prices to USD using an assumed exchange rate.
+
 ## Listings and submissions not yet completed
 
 - **GoodFirms:** support confirmed on 24 November 2026 that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization. Account registration and the public company profile have not yet been completed.
@@ -103,6 +126,8 @@ These are owned or maintained by the company or its contributors. They are usefu
 - **WriteUpCafe:** an account-verification email was received on 23 November 2026. Public author-page or article publication has not been verified; the email verification link still needs to be completed by an authorized user.
 - **Few Servers:** four provider-listing requests were sent on 23 November 2026. The latest delivery attempt entered a temporary 421 delay because the destination mail service applies a paid-plan restriction to newly registered or recently expired domains. No reply or public listing has been verified. Further duplicate requests have been paused.
 - **HostScoop:** the free provider submission page exists, but an email sent to the published support address returned “550 5.1.1 User unknown”. No account or company profile has been created. A signup form requires a starting-price field denominated in USD; currency eligibility remains unconfirmed.
+- **Cloud Hosting Directory:** its published submission mailbox returned “550 mailbox unavailable”. No submission was delivered; a new verified contact route is needed.
+- **GreatInflux and GetListedGlobal:** researched but not selected for submission. They are broad local-business directories with generic categories and profile fields such as revenue, employee count, local hours or postal details; they are weaker topical fits for a cloud/VPS provider and require information we should not guess.
 
 ## Excluded or deferred sources
 
