@@ -63,10 +63,16 @@ These are owned or maintained by the company or its contributors. They are usefu
 - Topic: diagnosing Linux VM memory pressure across guest and hypervisor layers.
 - Status: The full manuscript was submitted on 23 November 2026. An editorial decision or publication URL has not yet been received.
 
+### ServerVerify
+- Public provider page: https://serververify.com/hosting-providers/negarnovin
+- Status: The exact-match provider record exists. ServerVerify confirmed that a claim workflow is available and that the requested factual corrections remain under review.
+- Accuracy note: the company claim and email verification have not yet been confirmed. Do not describe the record as company-verified.
+
 ## Listings and submissions not yet completed
 
 - **GoodFirms:** support confirmed on 24 November 2026 that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization. Account registration and the public company profile have not yet been completed.
 - **VPS DB:** the research team confirmed on 24 November 2026 that it rechecked the official pages and updated its record; details it could not verify remain marked as unknown. A direct public profile URL has not been confirmed.
+- **DohoHub:** NegarNovin was accepted to the standard free provider waiting list on 21 November 2026. The provider form is not required; the team will add the entry when the queue reaches it. No publication date or live profile URL has been provided.
 - **ServerVerify:** profile creation and ownership-claim correspondence are in progress. Do not treat ownership as verified until the directory confirms the claim.
 - **WriteUpCafe:** an account-verification email was received on 23 November 2026. Public author-page or article publication has not been verified.
 
