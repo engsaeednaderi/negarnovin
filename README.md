@@ -27,6 +27,7 @@ Current plans, availability, technical specifications, and service terms are pub
 
 ## Platform submissions and editorial readiness
 
+- [Public company profiles and editorial status (24 Nov 2026)](press/public-profiles-and-editorial-status-2026-11-24.md)
 - [Verified public profiles and publication audit (31 Oct 2026)](platform-profiles/current-public-presence-2026-10-31.md)
 - [Existing profiles and verified submission routes (31 Oct 2026)](platform-profiles/existing-profiles-and-submission-status.md)
 - [Business directory profile copy and listing rules](platform-profiles/business-directory-submissions.md)
