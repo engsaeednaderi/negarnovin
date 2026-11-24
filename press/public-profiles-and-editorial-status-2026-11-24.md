@@ -184,3 +184,22 @@ These are owned or maintained by the company or its contributors. They are usefu
 ### BestVPSHosting and VPSBenchmarks eligibility boundaries
 - These are research candidates, not published profiles. A page describing a free submission is not proof that the provider is eligible, listed or benchmarked.
 - Do not invent USD prices, customer ratings, review scores, SLA commitments, uptime evidence, registration identifiers or infrastructure ownership to complete a form.
+
+
+## Official website consistency checks — 24 November 2026
+
+Before submitting plan details or company statistics to new directories, reconcile the following public-source differences. No external provider should copy a disputed value as a verified fact until the canonical source is clarified.
+
+- **VPS locations:** the VPS catalogue says “50+ locations” (https://negarnovin.com/vps/), while the homepage and About page say “75+ locations” and “100 data centres”. The catalogue also uses “75 data centres” in a separate sentence. Define whether the figures count active orderable locations, partner locations, or data-centre facilities, then use one explanation consistently.
+- **Base VPS price:** the About page displays a 4 GB / 2-core / 30 GB NVMe plan at 990,000 toman per month. The VPS catalogue displays the same base resource configuration with two price figures, 1,100,000 and 12,500,000 toman per month, and the homepage has an offer banner. The current price, struck-through/reference price, and discount need to be made unambiguous. The checkout/order form should be treated as the live price source until the pages are aligned.
+- **Plan price formatting:** the VPS catalogue presents paired price figures for multiple plans, and at least one later plan's extracted ordering is ambiguous. Do not convert any of these amounts to USD/EUR or submit them to third-party directories until the displayed current amount is clear in the live order flow.
+- **Uptime claim:** the homepage states both a 99.99% SLA and “100% uptime without interruption”. These are not equivalent guarantees. Keep only the uptime commitment that is actually supported by the published SLA and its exclusions.
+- **Customer/service counts:** the homepage displays 80,000 active customers, 100,000 delivered services and elsewhere 50,000 active cloud services; the About page separately displays 80,000 customers and 40,000 active services. Define the date, metric and counting method for each figure, or remove unsupported variations.
+- **Infrastructure wording:** the homepage and About page mention hardware ownership and access to a worldwide data-centre network. External listings should distinguish owned hardware, leased servers, partner-operated facilities and service locations. Do not imply ownership of third-party data centres.
+- **Support channels:** public copy says 24/7 support while the Hostlist profile correctly distinguishes telephone support hours from the always-available ticket portal. Preserve that channel-level distinction in all future listings.
+
+Sources checked:
+- https://negarnovin.com/
+- https://negarnovin.com/vps/
+- https://negarnovin.com/about-us/
+- https://negarnovin.com/terms-and-conditions/
