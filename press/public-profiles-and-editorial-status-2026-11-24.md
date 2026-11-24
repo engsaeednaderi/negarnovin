@@ -282,3 +282,12 @@ Sources checked:
 - On 24 November 2026, TinyFish wallet balance remained -$1.224 USD. Browser automation cannot run until the wallet is funded.
 - The current browser profiles have Google sign-in recorded, but do not show an active sign-in for GoodFirms, Enterprise League, ServerVerify, WriteUpCafe, Crunchbase, Zearches or Few Servers.
 - No new WordPress.com pages were created.
+
+
+### Email replies sent after the latest incoming messages
+- **TechEngage:** acknowledged the editor's receipt of the full Linux VM memory-pressure manuscript and confirmed availability for technical questions or revisions. Editorial review is still pending.
+- **VPSProof:** declined the newly offered paid placement and the alternative of providing a complimentary VPS for a full year. Asked to close the submission.
+- **HostingSeekers:** declined to authorize an estimated USD price and requested removal of the numeric price field while keeping the free profile, or temporary unpublishing if the site cannot omit it.
+- **Zearches:** acknowledged its instruction to use the free direct-submission form; the submission is still pending and no public profile is live.
+- **Open Source For You:** pitched a new tutorial idea on changing Linux network settings over SSH without locking out the operator.
+- **Linux Professional Institute:** pitched an educational article about turning Linux troubleshooting into repeatable incident runbooks.
