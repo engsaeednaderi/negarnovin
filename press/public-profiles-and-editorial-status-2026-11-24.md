@@ -74,7 +74,7 @@ These are owned or maintained by the company or its contributors. They are usefu
 
 ### ProdCraft
 - Topic pitched: “A Safer Linux Patching Workflow for Production VPS Operators.”
-- Status: Both the official guest-post address and the general contact address returned SMTP 530 “Authentication required” on 23 and 24 November. No pitch was delivered through these addresses and no manuscript was resent. Do not repeat outreach until the publisher provides a functioning route.
+- Status: The published guest-post address `editor@prodcraft.dev` returned SMTP 530 “Authentication required” on 23 and 24 November. The two pitches were not delivered. Do not repeat outreach to this mailbox unless the publisher provides a working alternative.
 
 ### Other editorial opportunities researched
 - **DZone:** accepts original, firsthand technical articles through a free contributor account. The author profile must use the real person’s name, not a company identity or logo. The publication rejects fully or partially AI-generated final articles and promotional content; current review time is approximately 30 business days. No account or article was submitted in this pass.
@@ -116,13 +116,13 @@ These are owned or maintained by the company or its contributors. They are usefu
 
 ## Listings and submissions not yet completed
 
-- **GoodFirms:** support confirmed on 24 November 2026 that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization. Account registration and the public company profile have not yet been completed.
+- **GoodFirms:** the listing team confirmed on 24 November 2026 that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization. They pointed to the direct account registration route. Account registration and the public company profile have not yet been completed.
 - **Cloud Hosting Directory:** the published submission mailbox returned SMTP 550 “mailbox unavailable” on 24 November 2026. No submission was delivered and no listing is live; do not describe this as pending editorial review.
 - **Tehran Index:** a source-backed company-record suggestion was sent to the research desk on 24 November 2026. The request asks for field-level source links and an appropriate Reported or Coverage Pending evidence state unless official legal records can be independently confirmed. No company record is live yet.
 - **VPSProof:** a free editorial provider-review submission was sent to contact@vpsproof.com on 24 November. Earlier attempts returned temporary upstream 521 errors. The latest attempt had no delivery-status notification at the time of this audit, but no editorial reply or inclusion is confirmed.
 - **ServerVerify:** the exact-match provider page exists at https://serververify.com/hosting-providers/negarnovin. The directory confirmed that an ownership-claim workflow is available and that factual corrections remain under review. On 24 November, the representative was told to sign in, use “Claim this page”, enter the local part `info` and request a verification link to info@negarnovin.com. The claim has not yet been completed and company ownership is not verified.
 - **DohoHub:** NegarNovin was accepted to the standard free provider waiting list on 21 November 2026. The provider form is not required; the team will add the entry when the queue reaches it. No publication date or live profile URL has been provided.
-- **WriteUpCafe:** an account-verification email and welcome message were received on 23 November 2026. The verification URL was inaccessible to the available web reader, so email verification and account activation remain unconfirmed. No public author page or article has been verified.
+- **WriteUpCafe:** an account-verification email and welcome message were received on 23 November 2026. An attempt to open the one-time verification URL on 24 November was blocked by the web reader, so email verification and account activation remain unconfirmed. No public author page or article has been verified.
 - **Few Servers:** four provider-listing requests were sent on 23 November 2026. The latest delivery attempt entered a temporary 421 delay because the destination mail service applies a paid-plan restriction to newly registered or recently expired domains. No reply or public listing has been verified. Further duplicate requests have been paused.
 - **HostScoop:** the free provider submission page exists, but an email sent to the published support address returned “550 5.1.1 User unknown”. No account or company profile has been created. A signup form requires a starting-price field denominated in USD; currency eligibility remains unconfirmed.
 - **Cloud Hosting Directory:** its published submission mailbox returned “550 mailbox unavailable”. No submission was delivered; a new verified contact route is needed.
@@ -165,3 +165,22 @@ These are owned or maintained by the company or its contributors. They are usefu
 - The TinyFish browser wallet was checked on 24 November 2026 and showed a balance of **-$1.224 USD**. Browser automation cannot start until the wallet is funded.
 - The current browser profiles do not show an active sign-in for GoodFirms, Enterprise League, ServerVerify, WriteUpCafe, HostVeritas or VPS Host Review. Any site requiring an account will also need an authorized sign-in session before account creation or profile claiming.
 - No new WordPress.com pages were created during this work.
+
+
+### BestVPSHosting.io
+- Submission route: https://bestvpshosting.io/submit-provider
+- Contact: hello@bestvpshosting.io
+- Status: A pre-submission inquiry was sent on 24 November 2026 asking whether Iran-headquartered providers are eligible, whether the form can retain IRT pricing instead of inventing a USD conversion, which business-registration evidence is accepted, and whether anonymous 30-day testing is entirely free.
+- The site advertises free submissions but requires a valid business-registration check, 24/7 customer support, public pricing and a stated uptime SLA or guarantee. It also says it will anonymously purchase a test account after initial review.
+- No application, fee, business document or test account has been supplied. No public profile exists yet. Do not submit until eligibility, IRT price display and the exact required company evidence are confirmed.
+
+### VPSBenchmarks
+- Provider pages and benchmark platform: https://www.vpsbenchmarks.com/
+- Preview list: https://www.vpsbenchmarks.com/hosters/previews
+- Contact form: https://www.vpsbenchmarks.com/contact
+- Status: Research completed on 24 November 2026. NegarNovin was not present in the public “Providers in Preview” list. VPSBenchmarks states that listed preview providers with a valid provider-domain email can claim ownership and may receive a free preview trial and free private trial. Its FAQ also states that featured-provider subscriptions include paid public trial/ranking exposure; public rankings must not be treated as free inclusion.
+- No contact request, provider account or trial has been submitted. A future inquiry must ask whether a provider not already in Preview can be considered without a paid Featured subscription. No test result or ranking is claimed.
+
+### BestVPSHosting and VPSBenchmarks eligibility boundaries
+- These are research candidates, not published profiles. A page describing a free submission is not proof that the provider is eligible, listed or benchmarked.
+- Do not invent USD prices, customer ratings, review scores, SLA commitments, uptime evidence, registration identifiers or infrastructure ownership to complete a form.
