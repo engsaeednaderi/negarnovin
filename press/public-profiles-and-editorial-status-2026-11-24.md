@@ -322,3 +322,24 @@ Sources checked:
 - **Computer Tech Reviews:** the $100 guest-post offer was already declined; its representative acknowledged closure. No further response is needed.
 - **LinuxSecurity/GuardianDigital:** the response remains dismissive after the paid-link/reciprocal-link proposal was declined. The thread is closed; no further response is needed.
 - **Open Source For You and Linux Professional Institute:** the earlier idea pitches sent on 24 November remain awaiting editorial responses. No duplicate follow-up was sent.
+
+
+### Delivery outcomes for Opensource.com and Linux Journal — 24 November 2026
+- **Opensource.com:** the current published contact address `open@opensource.com` returned SMTP 550 5.1.1 “User unknown in virtual alias table” on 23 November and again on 24 November. Both proposals were undelivered. A third proposal will not be sent to this mailbox. The site says a contributor account is required for authors; the editorial page still lists the same non-working email. No article or author account was created.
+- **Linux Journal:** the published pitch address `ljeditor@linuxjournal.com` returned SMTP 550 5.1.1 “recipient does not exist” on 23 and 24 November. The prior `write@linuxjournal.com` address had also returned a 550 unknown-recipient error. The live masthead states that the publication is re-establishing its editorial staff and refers contributors to its contact form. No further message will be sent to either failed mailbox and no article is under editorial review there.
+
+### Linux Magazine (English edition)
+- Contributor guidelines: https://www.linux-magazine.com/About-Us/Write-for-Us
+- Official editorial contact: edit@linux-magazine.com
+- Pitch sent on 24 November 2026: “Hardening systemd Services Incrementally: Reduce Privileges Without Breaking the Daemon.”
+- Proposed coverage: establish a service baseline, use systemd-analyze security carefully, apply sandboxing controls incrementally, test writable paths/sockets/capabilities and validate service behavior and rollback.
+- The publication asks for a 1–2 paragraph idea proposal with “Proposal” or “Manuscript” in the subject and prefers complete, practical solutions rather than superficial lists.
+- Status: Pitch sent; no acceptance or reply yet. No delivery failure was present in the immediate inbox check.
+
+### ServerWatch
+- Editorial policy: https://www.serverwatch.com/editorial-policy/
+- Official pitch contact: editor@serverwatch.com
+- Pitch sent on 24 November 2026: “Building Safe, Repeatable Ubuntu VM Templates for Server Fleets.”
+- Proposed coverage: cloud-init datasource, per-instance identity and SSH keys, network assumptions, two-clone testing, disk expansion, agent enrollment and versioned image manifests.
+- ServerWatch explicitly invites tips, questions, pitches and corrections. Its editorial policy emphasizes objective, independently checked and human-authored content.
+- Status: Pitch sent; no reply or delivery failure was present in the immediate inbox check. No editorial acceptance or publication is confirmed.
