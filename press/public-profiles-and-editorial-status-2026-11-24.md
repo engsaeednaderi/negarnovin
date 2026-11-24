@@ -361,3 +361,28 @@ Sources checked:
 - Replied to GoodFirms acknowledging the free company listing and no paid add-ons without authorization.
 
 The above emails are recorded as sent, not as accepted offers or published placements. No new WordPress.com pages, no TinyFish browser automation, and no paid placements were used in this pass.
+
+
+## Latest follow-up — 24 November 2026
+
+### Linux Professional Institute ticket
+- The volunteer request was acknowledged by LPI Helpdesk on 24 November 2026 under ticket **#128689**, “Write for Your Community: field lessons from safe Linux operations”.
+- The response is an automated receipt only. LPI says its volunteer team may take 2–3 business days to respond due to demand.
+- Status: Awaiting a human editorial/volunteer response. No acceptance or publication is confirmed.
+- Ticket email: helpdesk@lpi.org. Further information can be added by replying to the ticket thread if requested.
+
+### Datacenter Focus
+- Editorial guidelines: https://datacenter-focus.com/editorial-guidelines/
+- Contact: editorial@datacenter-focus.com
+- Pitch sent on 24 November 2026: “GPU Readiness Is More Than Availability: A Preflight Checklist for AI Infrastructure”.
+- The pitch proposes a vendor-neutral validation framework covering accelerator identity and memory, PCIe/IOMMU/NUMA, passthrough, driver and runtime compatibility, storage and network paths, workload-level validation, and the evidence customers should receive.
+- The pitch explicitly distinguishes a proposed validation method from actual measured benchmarks and does not claim fabricated tests, permanent GPU stock or data-centre ownership.
+- Status: Email successfully sent; no bounce or response was present in the immediate check. Await editorial reply.
+
+### ServerWatch, Opensource.com and Linux Journal
+- The ServerWatch pitch to editor@serverwatch.com returned SMTP 550 5.1.1 “recipient does not exist”. It was not delivered.
+- The Opensource.com pitch to open@opensource.com returned SMTP 550 5.1.1 “User unknown in virtual alias table”. It was not delivered.
+- The Linux Journal pitch to ljeditor@linuxjournal.com returned SMTP 550 5.1.1 “email account does not exist”. It was not delivered.
+- Do not resend to these addresses unless an alternative contact is verified on the publishers' current official websites.
+
+No WordPress connection, WordPress publishing, TinyFish browser workflow or wallet top-up was used in this follow-up.
