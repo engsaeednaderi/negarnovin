@@ -74,7 +74,7 @@ These are owned or maintained by the company or its contributors. They are usefu
 
 ### ProdCraft
 - Topic pitched: “A Safer Linux Patching Workflow for Production VPS Operators.”
-- Status: The official guest-post address returned SMTP 530 “Authentication required” on 23 and 24 November. The public Contact page lists contact@prodcraft.dev for general questions, and an inquiry asking for a functioning submission route was sent there on 24 November. No manuscript was resent.
+- Status: Both the official guest-post address and the general contact address returned SMTP 530 “Authentication required” on 23 and 24 November. No pitch was delivered through these addresses and no manuscript was resent. Do not repeat outreach until the publisher provides a functioning route.
 
 ### Other editorial opportunities researched
 - **DZone:** accepts original, firsthand technical articles through a free contributor account. The author profile must use the real person’s name, not a company identity or logo. The publication rejects fully or partially AI-generated final articles and promotional content; current review time is approximately 30 business days. No account or article was submitted in this pass.
@@ -97,11 +97,11 @@ These are owned or maintained by the company or its contributors. They are usefu
 - **GoodFirms:** support confirmed on 24 November 2026 that the standard company listing is free and that no paid upgrade, sponsored placement, purchased review or paid ranking will be activated without authorization. Account registration and the public company profile have not yet been completed.
 - **Cloud Hosting Directory:** a provider submission was sent on 24 November 2026 for free editorial review. The directory says submissions are manually reviewed, inclusion is not guaranteed, and provider prices are linked to the official source rather than invented. No listing is live yet.
 - **Tehran Index:** a source-backed company-record suggestion was sent to the research desk on 24 November 2026. The request asks for field-level source links and an appropriate Reported or Coverage Pending evidence state unless official legal records can be independently confirmed. No company record is live yet.
-- **VPSProof:** a free editorial provider-review submission was sent to contact@vpsproof.com on 24 November. Earlier attempts returned temporary upstream 521 errors; the latest message has not yet received a delivery confirmation or reply.
+- **VPSProof:** a free editorial provider-review submission was sent to contact@vpsproof.com on 24 November. Earlier attempts returned temporary upstream 521 errors. The latest attempt had no delivery-status notification at the time of this audit, but no editorial reply or inclusion is confirmed.
 - **ServerVerify:** the exact-match provider page exists at https://serververify.com/hosting-providers/negarnovin. The directory confirmed that an ownership-claim workflow is available and that factual corrections remain under review. Company ownership is not yet verified.
 - **DohoHub:** NegarNovin was accepted to the standard free provider waiting list on 21 November 2026. The provider form is not required; the team will add the entry when the queue reaches it. No publication date or live profile URL has been provided.
 - **WriteUpCafe:** an account-verification email was received on 23 November 2026. Public author-page or article publication has not been verified; the email verification link still needs to be completed by an authorized user.
-- **Few Servers:** four provider-listing requests were sent on 23 November 2026. No reply or public listing has been verified. Further duplicate requests have been paused.
+- **Few Servers:** four provider-listing requests were sent on 23 November 2026. The latest delivery attempt entered a temporary 421 delay because the destination mail service applies a paid-plan restriction to newly registered or recently expired domains. No reply or public listing has been verified. Further duplicate requests have been paused.
 - **HostScoop:** the free provider submission page exists, but an email sent to the published support address returned “550 5.1.1 User unknown”. No account or company profile has been created. A signup form requires a starting-price field denominated in USD; currency eligibility remains unconfirmed.
 
 ## Excluded or deferred sources
