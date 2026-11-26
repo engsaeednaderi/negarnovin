@@ -8,6 +8,8 @@ Practical operational notes for Linux administrators, VPS operators and infrastr
   Separate client-side errors, routes, listening sockets, SSH daemon state, guest firewall rules and upstream filtering before changing a production server.
 - [Ubuntu VPS network troubleshooting](../../technical-guides/ubuntu-vps-network-troubleshooting.md)  
   First-line checks for interfaces, routes, DNS, Netplan and network-manager logs.
+- [Routing an IPv4 /32 address through an off-prefix gateway](../../technical-guides/linux-ipv4-32-static-gateway-routing.md)  
+  Inspect provider routing, test an on-link default route, and persist it safely with Netplan or NetworkManager.
 
 ## Virtualization and performance
 
