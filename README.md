@@ -45,6 +45,7 @@ Current plans, availability, technical specifications, and service terms are pub
 
 - [Technical guides index](docs/technical-guides/index.md)
 - [Ubuntu VPS network troubleshooting](technical-guides/ubuntu-vps-network-troubleshooting.md)
+- [Linux IPv4 /32 addressing and off-prefix gateway routing](technical-guides/linux-ipv4-32-static-gateway-routing.md)
 - [Ubuntu VPS SSH access diagnostics without rebooting](docs/technical-guides/ubuntu-ssh-access-diagnostics.md)
 - [VMware memory ballooning in Linux VMs](technical-guides/vmware-memory-ballooning-linux.md)
 - [Measuring Linux VPS network latency and packet loss](technical-guides/linux-vps-latency-measurement.md)
